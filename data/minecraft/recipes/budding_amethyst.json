@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bcb",
+        "bsb",
+        "bbb"
+    ],
+    "key": {
+        "b": {
+            "item": "minecraft:amethyst_block"
+        },
+        "s": {
+            "item": "minecraft:nether_star"
+        },
+        "c": {
+            "item": "minecraft:amethyst_cluster"
+        }
+    },
+    "result": {
+        "item": "minecraft:budding_amethyst",
+        "count": 5
+    }
+}
