@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "dcd",
+        "sds",
+        "dsd"
+    ],
+    "key": {
+        "d": {
+            "item": "minecraft:deepslate"
+        },
+        "s": {
+            "item": "minecraft:nether_star"
+        },
+        "c": {
+            "item": "minecraft:sculk_shrieker"
+        }
+    },
+    "result": {
+        "item": "minecraft:reinforced_deepslate",
+        "count": 10
+    }
+}

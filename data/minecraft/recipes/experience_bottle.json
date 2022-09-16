@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bbb",
+        "bsb",
+        "bdb"
+    ],
+    "key": {
+        "b": {
+            "item": "minecraft:glass_bottle"
+        },
+        "s": {
+            "item": "minecraft:nether_star"
+        },
+        "d": {
+            "item": "minecraft:dragon_breath"
+        }
+    },
+    "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 64
+    }
+}
