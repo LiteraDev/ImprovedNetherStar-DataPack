@@ -3,7 +3,6 @@
 This Datapack adds new crafting recipes using the Nether Star.
 
 Items included:
-  - Overworld stone ores.
   - Budding Amethyst
   - Dragon Egg
   - Elytra
