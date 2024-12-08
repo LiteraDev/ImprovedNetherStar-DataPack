@@ -1,6 +1,7 @@
 {
 	"pack": {
-		"pack_format": 15,
-		"description": [{"text":"Improved Nether Star","color":"dark_blue"},{"text":" by LiteraGame","color":"blue"}]
+		"description": [{"text":"Improved Nether Star","color":"dark_blue"},{"text":" by LiteraGame","color":"blue"}],
+		"pack_format": 61,
+		"supported_formats": [57, 61]
 	}
 }
