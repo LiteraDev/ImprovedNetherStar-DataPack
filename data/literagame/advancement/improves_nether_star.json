@@ -1,0 +1,22 @@
+{
+    "display": {
+        "title": "Improved Nether Star",
+        "description": {
+            "text": "Adds crafts for uncraftable items using the Nether Star.",
+            "color": "gold"
+        },
+        "icon": {
+            "id": "minecraft:nether_star"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "literagame:crafting",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "csc",
+        "bbb"
+    ],
+    "key": {
+        "b": "minecraft:bone_block",
+        "s": "minecraft:nether_star",
+        "c": "minecraft:sculk"
+        },
+    "result": {
+        "id": "minecraft:sculk_catalyst",
+        "count": 2
+    }
+}

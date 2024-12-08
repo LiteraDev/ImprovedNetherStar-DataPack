@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "lll",
+        "lsl",
+        "lll"
+    ],
+    "key": {
+        "l": "minecraft:chiseled_stone_bricks",
+        "s": "minecraft:netherite_ingot"
+        },
+    "result": {
+        "id": "minecraft:lodestone",
+        "count": 1
+    },
+    "group": "lodestone"
+}

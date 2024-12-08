@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "pip",
+        "psp",
+        "p p"
+    ],
+    "key": {
+        "i": "minecraft:iron_ingot",
+        "s": "minecraft:nether_star",
+        "p": "minecraft:phantom_membrane"
+        },
+    "result": {
+        "id": "minecraft:elytra",
+        "count": 1
+    }
+}

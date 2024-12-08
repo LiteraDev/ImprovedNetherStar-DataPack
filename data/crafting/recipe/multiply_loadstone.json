@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "lll",
+        "lsl",
+        "lll"
+    ],
+    "key": {
+        "l": "minecraft:lodestone",
+        "s": "minecraft:nether_star"
+        },
+    "result": {
+        "id": "minecraft:lodestone",
+        "count": 32
+    },
+    "group": "lodestone"
+}

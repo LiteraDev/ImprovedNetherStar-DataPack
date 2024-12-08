@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ai",
+        " sa",
+        "p  "
+    ],
+    "key": {
+        "a": "minecraft:string",
+        "s": "minecraft:nether_star",
+        "p": "minecraft:paper",
+        "i": "minecraft:iron_ingot"
+        },
+    "result": {
+        "id": "minecraft:name_tag",
+        "count": 16
+    }
+}

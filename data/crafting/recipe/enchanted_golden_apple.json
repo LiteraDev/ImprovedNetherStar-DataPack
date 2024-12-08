@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bsb",
+        "bab",
+        "bbb"
+    ],
+    "key": {
+        "b": "minecraft:gold_block",
+        "s": "minecraft:nether_star",
+        "a": "minecraft:apple"
+        },
+    "result": {
+        "id": "minecraft:enchanted_golden_apple",
+        "count": 1
+    }
+}

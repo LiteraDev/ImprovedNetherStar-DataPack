@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " E ",
+        "dsd",
+        "tot"
+    ],
+    "key": {
+        "E": "minecraft:ender_eye",
+        "s": "minecraft:nether_star",
+        "d": "minecraft:diamond",
+        "t": "end_stone",
+        "o": "minecraft:obsidian"
+        },
+    "result": {
+        "id": "minecraft:end_portal_frame",
+        "count": 3
+    }
+}
