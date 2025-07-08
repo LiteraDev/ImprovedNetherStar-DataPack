@@ -9,7 +9,6 @@ Items included:
   - Elytra
   - Enchanted Golden Apple
   - End Portal Frame
-  - Lodestone (multiply)
   - Name Tag
   - Reinforced Deepslate
   - Sculk Catalyst
