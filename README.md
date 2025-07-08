@@ -17,7 +17,7 @@ Items included:
   - Trident
 
 # Crafting recipes
-To see the crafting recipes check out the gallery on [Imgur][star].
+To see the crafting recipes check out the gallery on [Imgur][img].
 
 # Download 
 Download **Improved Nether Star** data pack for *Minecraft: Java Edition* 1.19+ on [Modrinth][mod].
