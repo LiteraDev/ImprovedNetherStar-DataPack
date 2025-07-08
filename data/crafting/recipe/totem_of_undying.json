@@ -10,7 +10,7 @@
         "E": "minecraft:emerald_block",
         "s": "minecraft:nether_star",
         "g": "minecraft:gold_block",
-        "d": "dragon_breath"
+        "d": "minecraft:dragon_breath"
         },
     "result": {
         "id": "minecraft:totem_of_undying",
