@@ -29,5 +29,5 @@ Check the **Improved Nether Star** add-on for *Minecraft: Bedrock Edition* 1.21.
 
    [img]: <https://imgur.com/a/EbEH1Ip>
    [mod]: <https://modrinth.com/datapack/improved-nether-star>
-   [git]: <https://github.com/LiteraDev/ImprovedNetherStar-DataPack>
+   [git]: <https://github.com/LiteraDev/ImprovedNetherStar-Add-on>
    [cf]: <>
