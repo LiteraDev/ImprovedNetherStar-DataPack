@@ -16,7 +16,7 @@
   },
         "title": "LiteraGame's Datapacks",
         "description": "All loaded data packs made by LiteraGame",
-        "background": "minecraft:textures/block/blue_concrete.png",
+        "background": "minecraft:block/blue_concrete",
         "frame": "challenge",
         "show_toast": false,
         "announce_to_chat": false

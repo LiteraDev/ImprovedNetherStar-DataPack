@@ -1,0 +1,35 @@
+{
+  "parent": "literagame:recipes/root",
+  "criteria": {
+    "has_nether_star": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:nether_star"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_nether_star"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "crafting:trident",
+      "crafting:elytra",
+      "crafting:budding_amethyst",
+      "crafting:dragon_egg",
+      "crafting:enchanted_golden_apple",
+      "crafting:end_portal_frame",
+      "crafting:experience_bottle",
+      "crafting:name_tag",
+      "crafting:reinforced_deepslate",
+      "crafting:sculk_catalyst",
+      "crafting:totem_of_undying"
+    ]
+  }
+}

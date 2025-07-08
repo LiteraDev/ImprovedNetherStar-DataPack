@@ -1,12 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "misc",
     "pattern": [
         "dsd",
         "sos",
         "dsd"
     ],
     "key": {
-        "o": "minecraft:egg",
+        "o": "#minecraft:eggs",
         "s": "minecraft:nether_star",
         "d": "minecraft:dragon_breath"
         },
