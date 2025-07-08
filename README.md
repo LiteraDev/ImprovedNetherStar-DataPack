@@ -22,7 +22,7 @@ To see the crafting recipes check out the gallery on [Imgur][img].
 # Download 
 Download **Improved Nether Star** data pack for *Minecraft: Java Edition* 1.19+ on [Modrinth][mod].
 
-# *Java Edition* version
+# *Bedrock Edition* version
 Check the **Improved Nether Star** add-on for *Minecraft: Bedrock Edition* 1.21.90+ on [GitHub][git] and [CurseForge][cf].
 
 
